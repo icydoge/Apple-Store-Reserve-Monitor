@@ -34,13 +34,13 @@ class bcolors:
     ENDC = '\0330m'
 
 # Change this to alter the monitoring stores and devices
-pref_stores = ['R358', 'R396', 'R352', 'R659']
-pref_models = ['MN4M2', 'MN972']
+pref_stores = ['R372', 'R153', 'R215']
+pref_models = ['MN8Y2', 'MNQM2', 'MNQP2', 'MNQN2']
 
 
 # Change the country and language for your location for example (DE/de_DE, GB/en_GB)
-storeurl = "https://reserve.cdn-apple.com/DE/de_DE/reserve/iPhone/stores.json"
-availurl = "https://reserve.cdn-apple.com/DE/de_DE/reserve/iPhone/availability.json"
+storeurl = "https://reserve.cdn-apple.com/GB/en_GB/reserve/iPhone/stores.json"
+availurl = "https://reserve.cdn-apple.com/GB/en_GB/reserve/iPhone/availability.json"
 
 
 # Incase of a new version, update models here.
